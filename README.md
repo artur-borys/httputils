@@ -1,6 +1,7 @@
 # HTTP Utils library for Go
 
 ![coverage](https://raw.githubusercontent.com/artur-borys/httputils/badges/.badges/master/coverage.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/artur-borys/httputils)](https://goreportcard.com/report/github.com/artur-borys/httputils)
 
 This is a Go library with various HTTP utils.
 Right now there are some basic tripperwares/client middlewares/interceptors,
