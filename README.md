@@ -1,5 +1,6 @@
 # HTTP Utils library for Go
 
+[![test](https://github.com/artur-borys/httputils/actions/workflows/coverage.yaml/badge.svg?branch=master)](https://github.com/artur-borys/httputils/actions/workflows/coverage.yaml)
 ![coverage](https://raw.githubusercontent.com/artur-borys/httputils/badges/.badges/master/coverage.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/artur-borys/httputils)](https://goreportcard.com/report/github.com/artur-borys/httputils)
 
